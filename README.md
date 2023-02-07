@@ -1,1 +1,1 @@
-# GraphTheory_2023
+# Graph Theory Project 2023
