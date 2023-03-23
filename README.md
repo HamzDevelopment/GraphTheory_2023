@@ -15,4 +15,5 @@ Another way to run the notebook, is by just searching for juptyer in your search
 The notebook contains the following.
 
 - What is the Problem?
+- How to solve the problem?
 - References
